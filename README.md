@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michael-mimi
+- 👋 Hi, I’m michael-mimi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c language and python
 - 💞️ I’m looking to collaborate on ...
